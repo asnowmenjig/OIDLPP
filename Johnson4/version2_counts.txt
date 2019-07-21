@@ -1,0 +1,12 @@
+ALPHABET SECTION: A
+Shakespeare citations = 2
+Milton citations = 1
+Locke citations = 0
+Dryden citations = 0
+- - - - - - - - - - - - -
+ALPHABET SECTION: B
+Shakespeare citations = 2
+Milton citations = 2
+Locke citations = 1
+Dryden citations = 1
+- - - - - - - - - - - - -
